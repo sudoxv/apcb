@@ -1,0 +1,16 @@
+{
+  "name": "abcd",
+  "version": "1.0.0",
+  "description": "abcd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "sudoxv",
+  "license": "GNU",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  }
+}
